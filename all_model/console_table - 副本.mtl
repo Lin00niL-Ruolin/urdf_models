@@ -12,7 +12,7 @@ newmtl console_table
 	Kd 0.5882 0.5882 0.5882
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka console_table_diffuse.png
-	map_Kd console_table_diffuse.png
-	map_Ks console_table_specular.png
+	map_Ka G:\MODELS\console_table\console_table_diffuse.png
+	map_Kd G:\MODELS\console_table\console_table_diffuse.png
+	map_Ks G:\MODELS\console_table\console_table_specular.png
 	map_bump -bm 0.3000 normal_Normal_Bump.tga
